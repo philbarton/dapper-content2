@@ -2,7 +2,7 @@
     "openapi": "3.0.0",
     "info": {
         "title": "Madeup API",
-        "description": "Move your app forward with the Uber API",
+        "description": "An API for the people",
         "version": "1.0.0",
         "contact": {
             "name": "API Support",
